@@ -1,0 +1,12 @@
+c:\users\sadik_000\documents\visual studio 2013\Projects\PostVideo\PostVideo\bin\Debug\PostVideo.exe.config
+c:\users\sadik_000\documents\visual studio 2013\Projects\PostVideo\PostVideo\bin\Debug\PostVideo.exe
+c:\users\sadik_000\documents\visual studio 2013\Projects\PostVideo\PostVideo\bin\Debug\PostVideo.pdb
+c:\users\sadik_000\documents\visual studio 2013\Projects\PostVideo\PostVideo\bin\Debug\PostVideo.xml
+c:\users\sadik_000\documents\visual studio 2013\Projects\PostVideo\PostVideo\bin\Debug\MySql.Data.dll
+c:\users\sadik_000\documents\visual studio 2013\Projects\PostVideo\PostVideo\obj\Debug\PostVideo.vbprojResolveAssemblyReference.cache
+c:\users\sadik_000\documents\visual studio 2013\Projects\PostVideo\PostVideo\obj\Debug\PostVideo.Form1.resources
+c:\users\sadik_000\documents\visual studio 2013\Projects\PostVideo\PostVideo\obj\Debug\PostVideo.Resources.resources
+c:\users\sadik_000\documents\visual studio 2013\Projects\PostVideo\PostVideo\obj\Debug\PostVideo.vbproj.GenerateResource.Cache
+c:\users\sadik_000\documents\visual studio 2013\Projects\PostVideo\PostVideo\obj\Debug\PostVideo.exe
+c:\users\sadik_000\documents\visual studio 2013\Projects\PostVideo\PostVideo\obj\Debug\PostVideo.xml
+c:\users\sadik_000\documents\visual studio 2013\Projects\PostVideo\PostVideo\obj\Debug\PostVideo.pdb
